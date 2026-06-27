@@ -15,3 +15,10 @@ Design a machine learning solution
 
 lab
 [LAB](https://microsoftlearning.github.io/mslearn-aml-design/)
+
+
+Explore and configure the Azure Machine Learning workspace
+[ML workspace](https://learn.microsoft.com/en-us/training/paths/explore-azure-machine-learning-workspace/)
+
+lab
+[LAB]()
